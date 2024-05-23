@@ -167,7 +167,8 @@ footer{
         height: 60%;
         margin-left: 20px;
         margin-bottom: 30px;
-        margin-top: -40px;      
+        margin-top: -40px;
+        object-fit: cover;      
     }
 
     .cabecalho__menu{
@@ -189,6 +190,7 @@ footer{
         text-align: center;
         margin-left: 8px;
         margin-right: 8px;
+        text-align: justify;
     }
 
     .apresentacao__links__subtitulo{
